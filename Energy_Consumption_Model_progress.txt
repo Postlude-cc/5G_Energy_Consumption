@@ -1,0 +1,5 @@
+Loss: 94.2979, Epoch Duration: 5.68 seconds
+Loss: 89.8638, Epoch Duration: 4.62 seconds
+Loss: 86.3477, Epoch Duration: 4.70 seconds
+Loss: 82.7608, Epoch Duration: 4.85 seconds
+Loss: 78.7347, Epoch Duration: 4.71 seconds
